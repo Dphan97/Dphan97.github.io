@@ -58,3 +58,7 @@ main{
   .items{
     text-align: left;
   }
+
+a:link {
+  color: red;
+}
